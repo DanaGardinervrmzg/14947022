@@ -1,3 +1,4 @@
+// do the thing you do
 out.write(”aString”);
 try {
 // do the thing you do
