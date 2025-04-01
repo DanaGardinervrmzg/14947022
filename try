@@ -1,3 +1,4 @@
+out.close();
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 public void init(FileInputStream fs) throws ClassNotFoundException, SQLException, FileNotFoundException, IOException
